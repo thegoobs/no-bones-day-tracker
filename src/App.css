@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+
+.subtitle {
+  font-size: 24px;
+}
+
+.heart {
+  transition: color 0.2s ease-in;
+}
+
+.heart:hover {
+  color: red;
+}
